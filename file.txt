@@ -1,3 +1,1 @@
-A
-lex has a cat.
-Adding new, experimental functionality, 
+Alex has a cat.
